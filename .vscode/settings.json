@@ -1,7 +1,15 @@
 {
     "cSpell.words": [
+        "Energetic",
         "indoor",
+        "Loving",
         "outdoor",
-        "personality"
-    ]
+        "personality",
+        "photo"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#501449",
+        "titleBar.activeBackground": "#6F1C67",
+        "titleBar.activeForeground": "#FDF8FD"
+    }
 }
